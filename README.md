@@ -22,10 +22,6 @@ Committed to fostering collaboration between development and operations, I thriv
 🔒 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲: 🛡️ AWS IAM
 💬 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 & 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻:🗣️ Slack, Microsoft Teams, Discord
 
-
-
-![Visitor Count](https://profile-counter.glitch.me/Danish-0710/count.svg)
-
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
