@@ -5,9 +5,23 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Danish-green)](https://danish-0710.github.io/profileweb/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Danish-yellow)](https://stackoverflow.com/users/20108134/lowkeydanish)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+As a 𝗗𝗲𝘃𝗢𝗽𝘀 and 𝗖𝗹𝗼𝘂𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with three years of relevant experience, I specialize in automating operational processes and optimizing workflows to enhance software delivery. My expertise encompasses a broad range of technologies, including AWS, Azure and along with proficiency in containerization using Docker and Kubernetes. I have a proven track record in implementing robust Continuous Integration and Continuous Deployment (CI/CD) pipelines that improve deployment speed and software reliability. 
+Committed to fostering collaboration between development and operations, I thrive in dynamic environments where I can drive innovation and continuous improvement. I am passionate about leveraging my technical skills to build scalable, resilient infrastructure that supports high-quality software development. Let’s connect and explore opportunities for collaboration!
+
+𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸
+
+𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: 🔧 Git, GitHub, GitLab, 
+𝗖𝗜/𝗖𝗗 𝗧𝗼𝗼𝗹𝘀:🚀 Jenkins
+𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻: 🐳 Docker
+𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻: ☸️ Kubernetes, AWS EKS, 
+𝗖𝗹𝗼𝘂𝗱 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀: ☁️ AWS, Azure
+𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝘀 𝗖𝗼𝗱𝗲: 📜 Terraform, 
+𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: ⚙️ Ansible
+𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: 🖥️ Bash, Python
+𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 & 𝗟𝗼𝗴𝗴𝗶𝗻𝗴: 📊 Prometheus, Grafana
+🔒 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲: 🛡️ AWS IAM
+💬 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 & 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻:🗣️ Slack, Microsoft Teams, Discord
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Danish-0710/count.svg)
